@@ -16,11 +16,11 @@ This personal portfolio website is a showcase of my skills and experience as a f
 
 *Contact Form*
 + A functional contact form that allows visitors to reach out directly via email.
+  
+# Technologies Used
 
-  #Technologies Used
-
-  + HTML for the structure and content.
-  + CSS for styling, layout, and responsiveness.
-  + JavaScript for dynamic interactions and enhanced user experience.
++ HTML for the structure and content.
++ CSS for styling, layout, and responsiveness.
++ JavaScript for dynamic interactions and enhanced user experience.
 
 
